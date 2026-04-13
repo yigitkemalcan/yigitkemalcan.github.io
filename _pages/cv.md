@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="min-height: 600px;">
 Download my CV as a PDF — coming soon.
+</div>
