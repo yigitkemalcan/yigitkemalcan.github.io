@@ -14,17 +14,15 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-<!-- Fixed footer -->
+<!-- Sticky footer: stays at viewport bottom on short pages, flows naturally on long ones -->
 <style>
-  .page__footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    z-index: 100;
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
   }
-  #main {
-    padding-bottom: 150px;
+  .page__footer {
+    margin-top: auto;
   }
 </style>
 
