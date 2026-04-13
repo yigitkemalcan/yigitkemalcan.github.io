@@ -32,13 +32,20 @@
 <link rel="icon" href="/images/favicon.ico" />
 <meta name="theme-color" content="#ffffff" />
 
-<!-- Sticky footer -->
+<!-- Footer always below the fold -->
 <style>
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh + 10em);
+    padding-bottom: 0;
+  }
+  #main {
+    flex: 1 0 auto;
+  }
   .page__footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
+    float: none;
+    flex-shrink: 0;
   }
 </style>
 
