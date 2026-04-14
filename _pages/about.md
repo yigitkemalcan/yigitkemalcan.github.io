@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Yigit Kemal Can"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a senior Computer Science student at Bilkent University and an incoming Ph.D. student in Computer Science at The University of Texas at Austin. At UT Austin, I will be advised by [Jovan Stojkovic](https://jovans2.github.io/) in the [CASCADE Lab](https://cascade.cs.utexas.edu/). My research interests are in the field of computer architecture and systems for AI.
+I am Yigit, a senior Computer Science student at Bilkent University and an incoming Ph.D. student in Computer Science at The University of Texas at Austin. At UT Austin, I will be advised by [Jovan Stojkovic](https://jovans2.github.io/) in the [CASCADE Lab](https://cascade.cs.utexas.edu/). My research interests are in the field of computer architecture and systems for AI.
 
 ## Research Interests
 
